@@ -1,0 +1,9 @@
+pyomo
+pandas
+numpy
+plotly
+matplotlib
+openpyxl
+highspy
+jupyterlab
+ipykernel
